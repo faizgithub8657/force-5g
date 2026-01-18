@@ -1,4 +1,4 @@
-# Keep 5G Alive on HyperOS
+# Keep 5G Alive on Android
 
 HyperOS aggressively switches **5G → 4G** when it thinks hotspot or tethering is idle.  
 If your carrier gives **unlimited 5G but capped 4G** (Airtel), this is super annoying.
